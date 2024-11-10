@@ -1,12 +1,12 @@
 # ADM-HW3 - Michelin Restaurants
 The repository contains the assignment.  
 
-Following are the member details of Group # 1:
+Following are the member details of Group # 2:
 | Members  | Email | Student ID |
 | ------------- | ------------- | ------------- |
 | Syed Muhammad Shahzeb Abbas  | shahzebm170@gmail.com  | 2170775 |
 | Michele Pezza   | pezza.1845897@studenti.uniroma1.it  | 1845897 |
-  
+| Emanuele Gallo   | @studenti.uniroma1.it  | 0000000 |
 
 The repository consists of the following files:
 
