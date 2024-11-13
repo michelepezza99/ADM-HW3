@@ -7,6 +7,7 @@ Following are the member details of Group # 2:
 | Syed Muhammad Shahzeb Abbas  | shahzebm170@gmail.com  | 2170775 |
 | Michele Pezza   | pezza.1845897@studenti.uniroma1.it  | 1845897 |
 | Emanuele Gallo   | @studenti.uniroma1.it  | 0000000 |
+| Kazi Al Refat Pranta   | kazialrefatpranta@gmail.com  | 2083810 |
 
 The repository consists of the following files:
 
