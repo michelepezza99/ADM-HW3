@@ -21,5 +21,5 @@ The link to view the file is [here](https://). The main.ipynb file contain all t
 -  Algorithmic Question
 
 ### 2. Files
-The files folder consists of following files: 
+The files folder consists of following files:
 - 
