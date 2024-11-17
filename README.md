@@ -22,11 +22,8 @@ The link to view the file is [here](https://). The main.ipynb file contain all t
 
 ### Files
 This folder consists of the following three files:
-1. _**michelin_restaurants_data.tsv**_
-   This .tsv file consists of data for all restaurants parsed through each of their urls from Michelin Guide website.
+1. _**michelin_restaurants_data.tsv:**_ This .tsv file consists of data for all restaurants parsed through each of their urls from Michelin Guide website.
      
-2. _**michelin_restaurants_urls.txt**_
-   This .txt file consists of all the URLs of each restaurant obtained after web scraping on the Michelin Guide website.
+2. _**michelin_restaurants_urls.txt:**_ This .txt file consists of all the URLs of each restaurant obtained after web scraping on the Michelin Guide website.
 
-3. _**italian_restaurants_map.html**_
-   This .html file when opened on a browser will show the map with restaurants marked on it. Since the map might not be visible when viewing the notebook on GitHub, we have attached a sample map for you to view.
+3. _**italian_restaurants_map.html:**_ This .html file when opened on a browser will show the map with restaurants marked on it. Since the map might not be visible when viewing the notebook on GitHub, we have attached a sample map for you to view.
