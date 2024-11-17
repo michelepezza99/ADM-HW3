@@ -1,5 +1,5 @@
 # ADM-HW3 - Michelin Restaurants
-The repository contains the assignment.  
+The repository contains the assignment for ADM Homework 3.  
 
 Following are the member details of Group # 2:
 | Members  | Email | Student ID |
@@ -11,5 +11,15 @@ Following are the member details of Group # 2:
 
 The repository consists of the following files:
 
-### main.ipynb
+### 1. main.ipynb
 The link to view the file is [here](https://). The main.ipynb file contain all the assigned questions solved in following order:
+-  Data Collection
+-  Search Engine Creation
+-  New Score Definition
+-  Map Visualization
+-  Advanced Search Engine
+-  Algorithmic Question
+
+### 2. Files
+The files folder consists of following files: 
+- 
