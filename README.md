@@ -12,7 +12,7 @@ Following are the member details of Group # 2:
 The repository consists of the following files:
 
 ### main.ipynb
-The link to view the file is [here](https://). The main.ipynb file contain all the assigned questions solved in following order:
+The link to view the file is [here]([https://](https://nbviewer.org/github/michelepezza99/ADM-HW3/blob/main/main.ipynb)). The main.ipynb file contain all the assigned questions solved in following order:
 -  Data Collection
 -  Search Engine Creation
 -  New Score Definition
